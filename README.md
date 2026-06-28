@@ -15,7 +15,6 @@ An extensible and modular framework designed to transform AI assistants into spe
 Construir um ecossistema agêntico modular que mude a forma como interagimos com as Inteligências Artificiais para estudar. Em vez de usar a IA para obter respostas prontas, este framework força a IA a atuar como um mentor socrático, guiando o utilizador através de analogias, desafios e validação por etapas.
 
 O primeiro domínio de aplicação prático é **Ciência de Dados e Inteligência Artificial**, mas a arquitetura foi desenhada para ser agnóstica e expandir-se para qualquer área do conhecimento.
-
 ---
 
 ## 🏛️ Arquitetura do Repositório
